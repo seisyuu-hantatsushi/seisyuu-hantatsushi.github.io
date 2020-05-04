@@ -1,7 +1,7 @@
 # Tips!!
 hello world!!
 ## WSLからSSHの接続でX Forwardingを行った際に接続できない場合
-###通常のlogin先からのX Clientの起動
+### 通常のlogin先からのX Clientの起動
 ```
 +------------------------+    +--------------------------------+
 | Remote Host X Server   |    | Local Host X Server            |
