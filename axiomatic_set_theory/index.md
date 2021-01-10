@@ -23,12 +23,12 @@ https://coq.inria.fr/
 命題$P(x)$を満たす要素$x$を集めた集合を下記のように記述する.<br>
 $$
   \{x|P(x)\}
-$$<br>
-これは,<br>  
+$$
+<br>これは,<br>  
 $$
   \exists y \forall x(x \in y \leftrightarrow P(x))
-$$<br>
-の$y$である.
+$$
+<br>の$y$である.
 
 ### みんな大好きRussel's paradox
 素朴な内包的記法において,命題を$P(x)$を$\forall x, x \not\in x$とすると.
