@@ -3,10 +3,10 @@
 
 # Coqで公理的集合論
 ## 実装レポジトリ
-https://github.com/seisyuu-hantatsushi/implement_set_theory_in_coq
+(https://github.com/seisyuu-hantatsushi/implement_set_theory_in_coq)
 
 ## Coqとは
-https://coq.inria.fr/
+(https://coq.inria.fr/)
 
 ## 論理
 
