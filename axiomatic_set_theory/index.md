@@ -24,7 +24,7 @@ https://coq.inria.fr/
 $$
   \{x|P(x)\}
 $$
-<br>これは,<br>  
+<br>これは,
 $$
   \exists y \forall x(x \in y \leftrightarrow P(x))
 $$
@@ -37,3 +37,20 @@ $$
   y \in y \leftrightarrow y \not\in y
 $$
 となり,矛盾する.これは,要素と集合が明確に規定されていないため発生する.
+
+### 型理論(theory of type)
+要素と集合が明確でないため発生するRussel's Pardoxをその発見者自身のBertrand Arthur William Russellが解決するために構築した理論である.
+Coqはこの型理論をもとにした数学証明支援器である.
+まず,
+<div style="text-align: center;">
+  この世のすべての記号(文字,数字)を1階の対象(object of type 1)とする.
+</div>
+これから,
+<div style="text-align: center;">
+  1階の対象を要素として集めて,2階の対象(object of type 2)を作成する. これは,2階の対象は1階の対象の集合である.
+</div>
+つまり,
+<div style="text-align: center;">
+  $n$階の対象(object of type n)を要素として集めて,$n+1$階の対象を作成する. これは,n+1階の対象はn階の対象の集合である.
+</div>
+これにより,要素と集合が明確に規定されるため,Russel's paradoxを回避できる.
