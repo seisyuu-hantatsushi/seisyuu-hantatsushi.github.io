@@ -22,14 +22,12 @@ https://coq.inria.fr/
 集まりを規定する命題を$P(x)$とする.  
 命題$P(x)$を満たす要素$x$を集めた集合を下記のように記述する.<br>
 $$
-  \begin{align*}
   \{x|P(x)\}
-  \end{align*}
-$$
-これは,  
+$$<br>
+これは,<br>  
 $$
   \exists y \forall x(x \in y \leftrightarrow P(x))
-$$
+$$<br>
 の$y$である.
 
 ### みんな大好きRussel's paradox
