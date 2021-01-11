@@ -2,6 +2,17 @@
 <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML"></script>
 
 # Coqで公理的集合論
+## 参考文献
+- 数学基礎論入門 前原昭二 ISBN 4-254-11396-X
+- 数学の基礎 島内剛一 ISBN 978-4-535-60106-2
+- 数学の基礎 集合・数・位相 齋藤正彦 ISBN 4-13-062909-3
+- 形式論理と公理的集合論入門 福島正久 (ロアジス出版)
+- 数理論理学 松本和夫 ISBN 978-4-32-001682-8
+- 数学基礎論 新井敏康 ISBN 978-4-00-730459-0
+- 論理と計算のしくみ 荻谷昌己 西崎真也 ISBN 978-4-00-006191-9
+- 集合と位相 斎藤毅 ISBN 978-4-13-062958-4
+- 集合・論理と位相 新井敏康 ISBN 978-4-489-02249-1
+
 ## 実装レポジトリ
 [implement_set_theory_in_coq](https://github.com/seisyuu-hantatsushi/implement_set_theory_in_coq)
 
