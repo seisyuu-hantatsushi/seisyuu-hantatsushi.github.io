@@ -12,16 +12,22 @@
 - 論理と計算のしくみ 荻谷昌己 西崎真也 ISBN 978-4-00-006191-9
 - 集合と位相 斎藤毅 ISBN 978-4-13-062958-4
 - 集合・論理と位相 新井敏康 ISBN 978-4-489-02249-1
-
+- 現代集合論入門 竹内外史 ISBN 978-4-535-60116-1
+- Coq/SSReflect/MathCompによる定理証明:フリーソフトではじめる数学の形式化 萩原学 アフェルト・レナルド ISBN  978-4-627-06241-2
 ## 実装レポジトリ
 [implement_set_theory_in_coq](https://github.com/seisyuu-hantatsushi/implement_set_theory_in_coq)
 
 ## Coqとは
 [The Coq Proof Assistant](https://coq.inria.fr/)
 
-## 論理
+## 形式論理
+論理を記号に置き換え,形式的に操作を行い,論理が正しいかを確認することが目的である.
 
-## Gentzenのシーケント計算
+### 命題論理
+
+### 述語論理
+
+### Gentzenのシーケント計算
 
 ## 集合論
 
