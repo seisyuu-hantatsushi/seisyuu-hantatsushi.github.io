@@ -26,7 +26,8 @@
 |$\top$||$\bot$|
 |$\bot$||$\top$|
 
-<a href="https://seisyuu-hantatsushi.github.io/axiomatic_set_theory/#%E5%BD%A2%E5%BC%8F%E8%AB%96%E7%90%86" class="btn">形式論理</a>
+<input type="button" onclick="location.href='https://seisyuu-hantatsushi.github.io/axiomatic_set_theory/#%E5%BD%A2%E5%BC%8F%E8%AB%96%E7%90%86'" value="形式論理">
+<a href="https://seisyuu-hantatsushi.github.io/axiomatic_set_theory/#%E5%BD%A2%E5%BC%8F%E8%AB%96%E7%90%86w" class="btn">形式論理</a>
 [形式論理](https://seisyuu-hantatsushi.github.io/axiomatic_set_theory/#%E5%BD%A2%E5%BC%8F%E8%AB%96%E7%90%86)
 [Next](predicate_logic.md)
 [Top](index.md)
