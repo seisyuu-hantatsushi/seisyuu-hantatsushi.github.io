@@ -26,8 +26,15 @@
 |$\top$||$\bot$|
 |$\bot$||$\top$|
 
+### 連言,論理積
+
+|$A$|$B$||$A \land B$|
+|---|---|---|---|
+|$\top$|$\top$||$\top$|
+|$\top$|$\bot$||$\bot$|
+|$\bot$|$\top$||$\bot$|
+|$\bot$|$\bot$||$\bot$|
+
 <input type="button" onclick="location.href='https://seisyuu-hantatsushi.github.io/axiomatic_set_theory/#%E5%BD%A2%E5%BC%8F%E8%AB%96%E7%90%86'" value="形式論理">
-<a href="https://seisyuu-hantatsushi.github.io/axiomatic_set_theory/#%E5%BD%A2%E5%BC%8F%E8%AB%96%E7%90%86w" class="btn">形式論理</a>
-[形式論理](https://seisyuu-hantatsushi.github.io/axiomatic_set_theory/#%E5%BD%A2%E5%BC%8F%E8%AB%96%E7%90%86)
 [Next](predicate_logic.md)
 [Top](index.md)
