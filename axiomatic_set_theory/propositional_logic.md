@@ -1,3 +1,6 @@
+<script type="text/x-mathjax-config">MathJax.Hub.Config({tex2jax:{inlineMath:[['\$','\$'],['\\(','\\)']],processEscapes:true},CommonHTML: {matchFontHeight:false}});</script>
+<script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+
 # 命題論理
 ##  命題論理
 命題(proposition)とは真か偽が必ず決まる問いである.
@@ -15,3 +18,7 @@
 
 ## 演算子
 形式的な演算により論理式の真偽を判定する.各演算子の規則は以下の通り.
+
+[形式論理](https://seisyuu-hantatsushi.github.io/axiomatic_set_theory/#%E5%BD%A2%E5%BC%8F%E8%AB%96%E7%90%86)
+[Next](predicate_logic.md)
+[Top](index.md)
