@@ -21,10 +21,10 @@
 
 ### 否定
 
-|$A$||$\lnotA$|
-|---|---|---|
-|$\top$||$\bot$|
-|$\bot$||$\top$|
+|$A$| |$\lnotA$|
+|----|----|----|
+|$\top$| |$\bot$|
+|$\bot$| |$\top$|
 
 <input type="button" onclick="location.href='https://seisyuu-hantatsushi.github.io/axiomatic_set_theory/#%E5%BD%A2%E5%BC%8F%E8%AB%96%E7%90%86'" value="形式論理">
 <a href="https://seisyuu-hantatsushi.github.io/axiomatic_set_theory/#%E5%BD%A2%E5%BC%8F%E8%AB%96%E7%90%86w" class="btn">形式論理</a>
