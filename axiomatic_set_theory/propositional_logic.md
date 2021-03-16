@@ -19,14 +19,14 @@
 ## 演算子
 形式的な演算により論理式の真偽を判定する.各演算子の規則は以下の通り.
 
-### 否定
+### 否定(negation)
 
 |$A$||$\lnot A$|
 |----|----|----|
 |$\top$||$\bot$|
 |$\bot$||$\top$|
 
-### 連言,論理積
+### 連言,論理積(conjunction)
 
 |$A$|$B$||$A \land B$|
 |---|---|---|---|
@@ -34,6 +34,23 @@
 |$\top$|$\bot$||$\bot$|
 |$\bot$|$\top$||$\bot$|
 |$\bot$|$\bot$||$\bot$|
+
+### 選言,論理和(disjunction)
+
+|$A$|$B$||$A \lor B$|
+|---|---|---|---|
+|$\top$|$\top$||$\top$|
+|$\top$|$\bot$||$\top$|
+|$\bot$|$\top$||$\top$|
+|$\bot$|$\bot$||$\bot$|
+
+### 含意(implication)
+|$A$|$B$||$A \to B$|
+|---|---|---|---|
+|$\top$|$\top$||$\top$|
+|$\top$|$\bot$||$\bot$|
+|$\bot$|$\top$||$\top$|
+|$\bot$|$\bot$||$\top$|
 
 <input type="button" onclick="location.href='https://seisyuu-hantatsushi.github.io/axiomatic_set_theory/#%E5%BD%A2%E5%BC%8F%E8%AB%96%E7%90%86'" value="形式論理">
 [Next](predicate_logic.md)
