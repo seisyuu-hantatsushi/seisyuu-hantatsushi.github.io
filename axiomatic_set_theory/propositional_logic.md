@@ -45,6 +45,7 @@
 |$\bot$|$\bot$||$\bot$|
 
 ### 含意(implication)
+
 |$A$|$B$||$A \to B$|
 |---|---|---|---|
 |$\top$|$\top$||$\top$|
