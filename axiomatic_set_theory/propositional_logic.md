@@ -14,10 +14,11 @@
    1. $\lnot$:否定
    1. $\land$:連言,論理積
    1. $\lor$:選言,論理和
-   1. $\to$:含意  
+   1. $\to$:含意
+1. 論理式は演算子により結合され,結合されたものも論理式である.
 
 ## 演算子
-形式的な演算により論理式の真偽を判定する.各演算子の規則は以下の通り.
+形式的な演算により論理式の真偽を判定する.各演算子の真理値表は以下の通り.
 
 ### 否定(negation)
 
@@ -52,6 +53,27 @@
 |$\top$|$\bot$||$\bot$|
 |$\bot$|$\top$||$\top$|
 |$\bot$|$\bot$||$\top$|
+
+### 同値(equivalence)
+
+$(A \to B) \land (B \to A)$の略号を$\leftrightarrow$とし同値という.
+
+|$A$|$B$||$A \leftrightarrow B$|
+|---|---|---|---|
+|$\top$|$\top$||$\top$|
+|$\top$|$\bot$||$\bot$|
+|$\bot$|$\top$||$\bot$|
+|$\bot$|$\bot$||$\top$|
+
+### 演算子の結合順位
+
+1. $\lnot$
+1. $\land,\lor$
+1. $\to$
+1. $\leftrightarrow$
+
+## 恒真式(tautology)
+命題変数の真偽に関わらず,論理式の真理値の結果がすべて真なるとき,この論理式を恒真式という.
 
 <input type="button" onclick="location.href='https://seisyuu-hantatsushi.github.io/axiomatic_set_theory/#%E5%BD%A2%E5%BC%8F%E8%AB%96%E7%90%86'" value="形式論理">
 [Next](predicate_logic.md)
