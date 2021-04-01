@@ -76,9 +76,12 @@ $(A \to B) \land (B \to A)$の略号を$\leftrightarrow$とし同値という.
 命題変数の真偽に関わらず,論理式の真理値の結果がすべて真なるとき,この論理式を恒真式という.
 モーダスポネンス(Modus Ponens,MP)$((P \to Q) \land P) \to Q$は恒真式である.
 
-|$P$|$Q$|$P \to Q$|$(P \to Q) \land P$|$((P \to Q) \land P) \to Q$|
-|---|---|---|---|---|
-|$\top$|$\top$|$\top$|$\top$|$\top$|
+|$P$|$Q$|$P \to Q$|$(P \to Q) \land P$||$((P \to Q) \land P) \to Q$|
+|---|---|---|---|---|---|
+|$\top$|$\top$|$\top$|$\top$||$\top$|
+|$\top$|$\bot$|$\bot$|$\bot$||$\top$|
+|$\bot$|$\top$|$\top$|$\bot$||$\top$|
+|$\bot$|$\bot$|$\top$|$\bot$||$\top$|
 
 <input type="button" onclick="location.href='https://seisyuu-hantatsushi.github.io/axiomatic_set_theory/#%E5%BD%A2%E5%BC%8F%E8%AB%96%E7%90%86'" value="形式論理">
 [Next](predicate_logic.md)
