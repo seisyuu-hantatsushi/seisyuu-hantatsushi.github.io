@@ -85,4 +85,4 @@ $(A \to B) \land (B \to A)$の略号を$\leftrightarrow$とし同値という.
 
 <input type="button" onclick="location.href='https://seisyuu-hantatsushi.github.io/axiomatic_set_theory/#%E5%BD%A2%E5%BC%8F%E8%AB%96%E7%90%86'" value="形式論理">
 [Next](predicate_logic.md)
-[Top](index.md)
+<input type="button" onclick="location.href='[https://seisyuu-hantatsushi.github.io/axiomatic_set_theory" value="TOP">
