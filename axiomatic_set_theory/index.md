@@ -25,10 +25,9 @@
 
 - [命題論理](propositional_logic.md)
 
+- [述語論理](predicate_logic.md)
 
-### 述語論理
-
-### Gentzen流自然演繹
+- [論理計算](logic_calc.md)
 
 ## 集合論
 
