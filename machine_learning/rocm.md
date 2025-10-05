@@ -20,7 +20,9 @@ Success
 (.python3_env) $ python3 -c 'import torch; print(torch.cuda.is_available())'
 True
 ```
+
 - gfx1103で利用するには...  
+
 ```
 export PYTORCH_ROCM_ARCH=gfx1100
 export HSA_OVERRIDE_GFX_VERSION=11.0.0
