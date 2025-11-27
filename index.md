@@ -6,3 +6,4 @@
 - [数理統計学ノート](/math_stats_note/)
 - [機械学習メモ](/machine_learning/)
 - [Julia Tips](/julia/)
+- [Zynq/FPGA](/fpga/)
