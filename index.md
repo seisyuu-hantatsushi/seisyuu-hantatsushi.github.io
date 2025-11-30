@@ -7,3 +7,4 @@
 - [機械学習メモ](/machine_learning/)
 - [Julia Tips](/julia/)
 - [Zynq/FPGA](/fpga/)
+- [Pluto SRD](/pluto_sdr)
